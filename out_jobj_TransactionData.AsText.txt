@@ -1,0 +1,745 @@
+{
+  "A": [
+    {
+      "RowError": "",
+      "RowState": 4,
+      "Table": [
+        {
+          "Name": "A",
+          "Value": 1.0,
+          "Description": ""
+        },
+        {
+          "Name": "A",
+          "Value": 2.0,
+          "Description": ""
+        },
+        {
+          "Name": "A",
+          "Value": 3.0,
+          "Description": ""
+        },
+        {
+          "Name": "A",
+          "Value": 4.0,
+          "Description": ""
+        },
+        {
+          "Name": "B",
+          "Value": 1.0,
+          "Description": ""
+        },
+        {
+          "Name": "B",
+          "Value": 2.0,
+          "Description": ""
+        },
+        {
+          "Name": "B",
+          "Value": 3.0,
+          "Description": ""
+        },
+        {
+          "Name": "C",
+          "Value": 1.0,
+          "Description": ""
+        },
+        {
+          "Name": "C",
+          "Value": 2.0,
+          "Description": ""
+        },
+        {
+          "Name": "C",
+          "Value": 3.0,
+          "Description": ""
+        },
+        {
+          "Name": "C",
+          "Value": 4.0,
+          "Description": ""
+        }
+      ],
+      "ItemArray": [
+        "A",
+        1.0,
+        ""
+      ],
+      "HasErrors": false
+    },
+    {
+      "RowError": "",
+      "RowState": 4,
+      "Table": [
+        {
+          "Name": "A",
+          "Value": 1.0,
+          "Description": ""
+        },
+        {
+          "Name": "A",
+          "Value": 2.0,
+          "Description": ""
+        },
+        {
+          "Name": "A",
+          "Value": 3.0,
+          "Description": ""
+        },
+        {
+          "Name": "A",
+          "Value": 4.0,
+          "Description": ""
+        },
+        {
+          "Name": "B",
+          "Value": 1.0,
+          "Description": ""
+        },
+        {
+          "Name": "B",
+          "Value": 2.0,
+          "Description": ""
+        },
+        {
+          "Name": "B",
+          "Value": 3.0,
+          "Description": ""
+        },
+        {
+          "Name": "C",
+          "Value": 1.0,
+          "Description": ""
+        },
+        {
+          "Name": "C",
+          "Value": 2.0,
+          "Description": ""
+        },
+        {
+          "Name": "C",
+          "Value": 3.0,
+          "Description": ""
+        },
+        {
+          "Name": "C",
+          "Value": 4.0,
+          "Description": ""
+        }
+      ],
+      "ItemArray": [
+        "A",
+        2.0,
+        ""
+      ],
+      "HasErrors": false
+    },
+    {
+      "RowError": "",
+      "RowState": 4,
+      "Table": [
+        {
+          "Name": "A",
+          "Value": 1.0,
+          "Description": ""
+        },
+        {
+          "Name": "A",
+          "Value": 2.0,
+          "Description": ""
+        },
+        {
+          "Name": "A",
+          "Value": 3.0,
+          "Description": ""
+        },
+        {
+          "Name": "A",
+          "Value": 4.0,
+          "Description": ""
+        },
+        {
+          "Name": "B",
+          "Value": 1.0,
+          "Description": ""
+        },
+        {
+          "Name": "B",
+          "Value": 2.0,
+          "Description": ""
+        },
+        {
+          "Name": "B",
+          "Value": 3.0,
+          "Description": ""
+        },
+        {
+          "Name": "C",
+          "Value": 1.0,
+          "Description": ""
+        },
+        {
+          "Name": "C",
+          "Value": 2.0,
+          "Description": ""
+        },
+        {
+          "Name": "C",
+          "Value": 3.0,
+          "Description": ""
+        },
+        {
+          "Name": "C",
+          "Value": 4.0,
+          "Description": ""
+        }
+      ],
+      "ItemArray": [
+        "A",
+        3.0,
+        ""
+      ],
+      "HasErrors": false
+    },
+    {
+      "RowError": "",
+      "RowState": 4,
+      "Table": [
+        {
+          "Name": "A",
+          "Value": 1.0,
+          "Description": ""
+        },
+        {
+          "Name": "A",
+          "Value": 2.0,
+          "Description": ""
+        },
+        {
+          "Name": "A",
+          "Value": 3.0,
+          "Description": ""
+        },
+        {
+          "Name": "A",
+          "Value": 4.0,
+          "Description": ""
+        },
+        {
+          "Name": "B",
+          "Value": 1.0,
+          "Description": ""
+        },
+        {
+          "Name": "B",
+          "Value": 2.0,
+          "Description": ""
+        },
+        {
+          "Name": "B",
+          "Value": 3.0,
+          "Description": ""
+        },
+        {
+          "Name": "C",
+          "Value": 1.0,
+          "Description": ""
+        },
+        {
+          "Name": "C",
+          "Value": 2.0,
+          "Description": ""
+        },
+        {
+          "Name": "C",
+          "Value": 3.0,
+          "Description": ""
+        },
+        {
+          "Name": "C",
+          "Value": 4.0,
+          "Description": ""
+        }
+      ],
+      "ItemArray": [
+        "A",
+        4.0,
+        ""
+      ],
+      "HasErrors": false
+    }
+  ],
+  "B": [
+    {
+      "RowError": "",
+      "RowState": 4,
+      "Table": [
+        {
+          "Name": "A",
+          "Value": 1.0,
+          "Description": ""
+        },
+        {
+          "Name": "A",
+          "Value": 2.0,
+          "Description": ""
+        },
+        {
+          "Name": "A",
+          "Value": 3.0,
+          "Description": ""
+        },
+        {
+          "Name": "A",
+          "Value": 4.0,
+          "Description": ""
+        },
+        {
+          "Name": "B",
+          "Value": 1.0,
+          "Description": ""
+        },
+        {
+          "Name": "B",
+          "Value": 2.0,
+          "Description": ""
+        },
+        {
+          "Name": "B",
+          "Value": 3.0,
+          "Description": ""
+        },
+        {
+          "Name": "C",
+          "Value": 1.0,
+          "Description": ""
+        },
+        {
+          "Name": "C",
+          "Value": 2.0,
+          "Description": ""
+        },
+        {
+          "Name": "C",
+          "Value": 3.0,
+          "Description": ""
+        },
+        {
+          "Name": "C",
+          "Value": 4.0,
+          "Description": ""
+        }
+      ],
+      "ItemArray": [
+        "B",
+        1.0,
+        ""
+      ],
+      "HasErrors": false
+    },
+    {
+      "RowError": "",
+      "RowState": 4,
+      "Table": [
+        {
+          "Name": "A",
+          "Value": 1.0,
+          "Description": ""
+        },
+        {
+          "Name": "A",
+          "Value": 2.0,
+          "Description": ""
+        },
+        {
+          "Name": "A",
+          "Value": 3.0,
+          "Description": ""
+        },
+        {
+          "Name": "A",
+          "Value": 4.0,
+          "Description": ""
+        },
+        {
+          "Name": "B",
+          "Value": 1.0,
+          "Description": ""
+        },
+        {
+          "Name": "B",
+          "Value": 2.0,
+          "Description": ""
+        },
+        {
+          "Name": "B",
+          "Value": 3.0,
+          "Description": ""
+        },
+        {
+          "Name": "C",
+          "Value": 1.0,
+          "Description": ""
+        },
+        {
+          "Name": "C",
+          "Value": 2.0,
+          "Description": ""
+        },
+        {
+          "Name": "C",
+          "Value": 3.0,
+          "Description": ""
+        },
+        {
+          "Name": "C",
+          "Value": 4.0,
+          "Description": ""
+        }
+      ],
+      "ItemArray": [
+        "B",
+        2.0,
+        ""
+      ],
+      "HasErrors": false
+    },
+    {
+      "RowError": "",
+      "RowState": 4,
+      "Table": [
+        {
+          "Name": "A",
+          "Value": 1.0,
+          "Description": ""
+        },
+        {
+          "Name": "A",
+          "Value": 2.0,
+          "Description": ""
+        },
+        {
+          "Name": "A",
+          "Value": 3.0,
+          "Description": ""
+        },
+        {
+          "Name": "A",
+          "Value": 4.0,
+          "Description": ""
+        },
+        {
+          "Name": "B",
+          "Value": 1.0,
+          "Description": ""
+        },
+        {
+          "Name": "B",
+          "Value": 2.0,
+          "Description": ""
+        },
+        {
+          "Name": "B",
+          "Value": 3.0,
+          "Description": ""
+        },
+        {
+          "Name": "C",
+          "Value": 1.0,
+          "Description": ""
+        },
+        {
+          "Name": "C",
+          "Value": 2.0,
+          "Description": ""
+        },
+        {
+          "Name": "C",
+          "Value": 3.0,
+          "Description": ""
+        },
+        {
+          "Name": "C",
+          "Value": 4.0,
+          "Description": ""
+        }
+      ],
+      "ItemArray": [
+        "B",
+        3.0,
+        ""
+      ],
+      "HasErrors": false
+    }
+  ],
+  "C": [
+    {
+      "RowError": "",
+      "RowState": 4,
+      "Table": [
+        {
+          "Name": "A",
+          "Value": 1.0,
+          "Description": ""
+        },
+        {
+          "Name": "A",
+          "Value": 2.0,
+          "Description": ""
+        },
+        {
+          "Name": "A",
+          "Value": 3.0,
+          "Description": ""
+        },
+        {
+          "Name": "A",
+          "Value": 4.0,
+          "Description": ""
+        },
+        {
+          "Name": "B",
+          "Value": 1.0,
+          "Description": ""
+        },
+        {
+          "Name": "B",
+          "Value": 2.0,
+          "Description": ""
+        },
+        {
+          "Name": "B",
+          "Value": 3.0,
+          "Description": ""
+        },
+        {
+          "Name": "C",
+          "Value": 1.0,
+          "Description": ""
+        },
+        {
+          "Name": "C",
+          "Value": 2.0,
+          "Description": ""
+        },
+        {
+          "Name": "C",
+          "Value": 3.0,
+          "Description": ""
+        },
+        {
+          "Name": "C",
+          "Value": 4.0,
+          "Description": ""
+        }
+      ],
+      "ItemArray": [
+        "C",
+        1.0,
+        ""
+      ],
+      "HasErrors": false
+    },
+    {
+      "RowError": "",
+      "RowState": 4,
+      "Table": [
+        {
+          "Name": "A",
+          "Value": 1.0,
+          "Description": ""
+        },
+        {
+          "Name": "A",
+          "Value": 2.0,
+          "Description": ""
+        },
+        {
+          "Name": "A",
+          "Value": 3.0,
+          "Description": ""
+        },
+        {
+          "Name": "A",
+          "Value": 4.0,
+          "Description": ""
+        },
+        {
+          "Name": "B",
+          "Value": 1.0,
+          "Description": ""
+        },
+        {
+          "Name": "B",
+          "Value": 2.0,
+          "Description": ""
+        },
+        {
+          "Name": "B",
+          "Value": 3.0,
+          "Description": ""
+        },
+        {
+          "Name": "C",
+          "Value": 1.0,
+          "Description": ""
+        },
+        {
+          "Name": "C",
+          "Value": 2.0,
+          "Description": ""
+        },
+        {
+          "Name": "C",
+          "Value": 3.0,
+          "Description": ""
+        },
+        {
+          "Name": "C",
+          "Value": 4.0,
+          "Description": ""
+        }
+      ],
+      "ItemArray": [
+        "C",
+        2.0,
+        ""
+      ],
+      "HasErrors": false
+    },
+    {
+      "RowError": "",
+      "RowState": 4,
+      "Table": [
+        {
+          "Name": "A",
+          "Value": 1.0,
+          "Description": ""
+        },
+        {
+          "Name": "A",
+          "Value": 2.0,
+          "Description": ""
+        },
+        {
+          "Name": "A",
+          "Value": 3.0,
+          "Description": ""
+        },
+        {
+          "Name": "A",
+          "Value": 4.0,
+          "Description": ""
+        },
+        {
+          "Name": "B",
+          "Value": 1.0,
+          "Description": ""
+        },
+        {
+          "Name": "B",
+          "Value": 2.0,
+          "Description": ""
+        },
+        {
+          "Name": "B",
+          "Value": 3.0,
+          "Description": ""
+        },
+        {
+          "Name": "C",
+          "Value": 1.0,
+          "Description": ""
+        },
+        {
+          "Name": "C",
+          "Value": 2.0,
+          "Description": ""
+        },
+        {
+          "Name": "C",
+          "Value": 3.0,
+          "Description": ""
+        },
+        {
+          "Name": "C",
+          "Value": 4.0,
+          "Description": ""
+        }
+      ],
+      "ItemArray": [
+        "C",
+        3.0,
+        ""
+      ],
+      "HasErrors": false
+    },
+    {
+      "RowError": "",
+      "RowState": 4,
+      "Table": [
+        {
+          "Name": "A",
+          "Value": 1.0,
+          "Description": ""
+        },
+        {
+          "Name": "A",
+          "Value": 2.0,
+          "Description": ""
+        },
+        {
+          "Name": "A",
+          "Value": 3.0,
+          "Description": ""
+        },
+        {
+          "Name": "A",
+          "Value": 4.0,
+          "Description": ""
+        },
+        {
+          "Name": "B",
+          "Value": 1.0,
+          "Description": ""
+        },
+        {
+          "Name": "B",
+          "Value": 2.0,
+          "Description": ""
+        },
+        {
+          "Name": "B",
+          "Value": 3.0,
+          "Description": ""
+        },
+        {
+          "Name": "C",
+          "Value": 1.0,
+          "Description": ""
+        },
+        {
+          "Name": "C",
+          "Value": 2.0,
+          "Description": ""
+        },
+        {
+          "Name": "C",
+          "Value": 3.0,
+          "Description": ""
+        },
+        {
+          "Name": "C",
+          "Value": 4.0,
+          "Description": ""
+        }
+      ],
+      "ItemArray": [
+        "C",
+        4.0,
+        ""
+      ],
+      "HasErrors": false
+    }
+  ]
+}

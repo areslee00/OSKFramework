@@ -1,0 +1,105 @@
+{
+  "DisplayName": "Main",
+  "Tooltip": null,
+  "HelpLink": null,
+  "Color": null,
+  "OriginalIconFileName": null,
+  "Arguments": [
+    {
+      "Name": "in_FrameworkType",
+      "DisplayName": "in_FrameworkType",
+      "Category": null,
+      "Tooltip": "Dispatcher, Performer, and Reporter are acceptable. Values are not case sensitive.",
+      "Placeholder": null,
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "in_BatchLimit",
+      "DisplayName": "in_BatchLimit",
+      "Category": null,
+      "Tooltip": "Max number of transactions to process. Only positive integers are acceptable, negative number and 0 will be converted to 1 by default.",
+      "Placeholder": null,
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "out_Transactions",
+      "DisplayName": "out_Transactions",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": null,
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "out_Config",
+      "DisplayName": "out_Config",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": null,
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "in_TransactionType",
+      "DisplayName": "in_TransactionType",
+      "Category": null,
+      "Tooltip": "Transaction item type",
+      "Placeholder": null,
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "in_QueueClean",
+      "DisplayName": "in_QueueClean",
+      "Category": null,
+      "Tooltip": "If TRUE, Clear current queue items before upload new ones.",
+      "Placeholder": "True",
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "in_ManualInput",
+      "DisplayName": "in_ManualInput",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": null,
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "in_IsCUI",
+      "DisplayName": "in_IsCUI",
+      "Category": null,
+      "Tooltip": "Set to TRUE if the process touches CUI data which cannot be posted in logs or queues",
+      "Placeholder": "False",
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RPA Execution Summary Notification</title>
+</head>
+<body style="font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #f4f4f4;">
+    <div style="width: 80%; margin: 20px auto; background-color: #ffffff; border: 1px solid #dddddd; border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); overflow: hidden;">
+        <div style="background-color: #007bff; color: #ffffff; padding: 20px; text-align: center;">
+            <h1 style="margin: 0;">RPA Execution Summary</h1>
+        </div>
+        <div style="padding: 20px;">
+            <h2>Execution Details</h2>
+            <p><strong>Execution Time:</strong> August 2, 2024, 10:00 AM</p>
+            <p><strong>Process Name:</strong> Invoice Processing</p>
+            <p><strong>Executed By:</strong> RPA Bot #23</p>
+            
+            <div style="margin-bottom: 20px;">
+                <h3>Status Summary</h3>
+                <p><strong>Status:</strong> Success</p>
+                <p><strong>Total Records Processed:</strong> 150</p>
+                <p><strong>Errors Encountered:</strong> None</p>
+            </div>
+            
+            <div style="margin-bottom: 20px;">
+                <h3>Execution Summary</h3>
+                <p>The RPA process completed successfully. All records were processed without any errors. The process executed within the expected time frame and no issues were encountered.</p>
+            </div>
+            
+            <!-- Stacked Bar Chart with Legend using SVG -->
+            <h3>Execution Status Breakdown</h3>
+            <div style="display: flex; align-items: start;">
+                <!-- Stacked Bar Chart -->
+                <svg width="300" height="200" xmlns="http://www.w3.org/2000/svg" style="margin-right: 20px;">
+                    <!-- Bar Background -->
+                    <rect x="10" y="10" width="260" height="180" fill="#e9ecef"></rect>
+
+                    <!-- Successful -->
+                    <rect x="10" y="10" width="260" height="140" fill="#28a745"></rect>
+                    
+                    <!-- Business Error -->
+                    <rect x="10" y="150" width="260" height="30" fill="#ffc107"></rect>
+
+                    <!-- System Error -->
+                    <rect x="10" y="180" width="260" height="10" fill="#dc3545"></rect>
+                    
+                    <!-- Labels -->
+                    <text x="150" y="120" text-anchor="middle" fill="#000000" font-size="12">70%</text>
+                    <text x="150" y="170" text-anchor="middle" fill="#000000" font-size="12">20%</text>
+                    <text x="150" y="190" text-anchor="middle" fill="#000000" font-size="12">10%</text>
+                </svg>
+                
+                <!-- Legend -->
+                <div>
+                    <div style="margin-bottom: 10px;">
+                        <svg width="20" height="20" xmlns="http://www.w3.org/2000/svg" style="display: inline-block;">
+                            <rect width="20" height="20" fill="#28a745"></rect>
+                        </svg>
+                        <span style="margin-left: 10px;">Successful: 60%</span>
+                    </div>
+                    <div style="margin-bottom: 10px;">
+                        <svg width="20" height="20" xmlns="http://www.w3.org/2000/svg" style="display: inline-block;">
+                            <rect width="20" height="20" fill="#ffc107"></rect>
+                        </svg>
+                        <span style="margin-left: 10px;">Business Error: 30%</span>
+                    </div>
+                    <div>
+                        <svg width="20" height="20" xmlns="http://www.w3.org/2000/svg" style="display: inline-block;">
+                            <rect width="20" height="20" fill="#dc3545"></rect>
+                        </svg>
+                        <span style="margin-left: 10px;">System Error: 10%</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div style="background-color: #e9ecef; padding: 20px; border-top: 1px solid #ddd;">
+            <h3 style="margin-top: 0;">Need Support?</h3>
+            <p>If you encounter any issues or have questions regarding this RPA execution, please follow the instructions below:</p>
+            <p><strong>1. Contact Support:</strong> Reach out to our support team at <a href="mailto:support@example.com">support@example.com</a>.</p>
+            <p><strong>2. Provide Details:</strong> Include the execution time, process name, and any error messages or issues you experienced.</p>
+            <p><strong>3. Support Hours:</strong> Our support team is available Monday to Friday, 9 AM - 5 PM.</p>
+            <p>Thank you for your attention.</p>
+        </div>
+        <div style="background-color: #f1f1f1; text-align: center; padding: 10px; font-size: 14px; color: #666666;">
+            <p>&copy; 2024 RPA Solutions. All rights reserved.</p>
+        </div>
+    </div>
+</body>
+</html>
